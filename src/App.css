@@ -20,16 +20,6 @@
   position: relative;
 }
 
-.App h1:after {
-  content: "";
-  top: -5px;
-  left: -10%;
-  width: 120%;
-  height: 100%;
-  border-bottom: 3px solid black;
-  position: absolute;
-}
-
 .App .ghostTracker {
   display: flex;
   flex-direction: column;
