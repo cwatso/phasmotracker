@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/phasmotracker/static/css/main.fe781935.css",
+    "main.css": "/phasmotracker/static/css/main.f3a8df4f.css",
     "main.js": "/phasmotracker/static/js/main.c4dd5d02.js",
     "static/media/journal.png": "/phasmotracker/static/media/journal.acb1ab9adea633e2c101.png",
     "static/media/circle.svg": "/phasmotracker/static/media/circle.78c77bd732bb0ffae3db.svg",
     "index.html": "/phasmotracker/index.html",
-    "main.fe781935.css.map": "/phasmotracker/static/css/main.fe781935.css.map",
+    "main.f3a8df4f.css.map": "/phasmotracker/static/css/main.f3a8df4f.css.map",
     "main.c4dd5d02.js.map": "/phasmotracker/static/js/main.c4dd5d02.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe781935.css",
+    "static/css/main.f3a8df4f.css",
     "static/js/main.c4dd5d02.js"
   ]
 }
