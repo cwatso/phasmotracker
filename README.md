@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Phasmotracker
+
+A stand-alone react app version of the journal from Phasmophobia (with some additional hidden ghost information as an optional extra) to allow you to keep track of evidence whilst watching someone else play.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

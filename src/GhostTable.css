@@ -1,0 +1,38 @@
+.ghostTable {
+  display: grid;
+  margin-top: 15px;
+  margin-bottom: 30px;
+  grid-template-columns: 1fr 1fr 1fr;
+  width: 100%;
+}
+
+.ghostTable button {
+  background: none;
+  border: none;
+  font-size: 1.2rem;
+  padding: 10px;
+  min-height: 44px;
+  width: 100%;
+  position: relative;
+}
+
+.ghostTable .crossed {
+  text-decoration: line-through;
+  text-decoration-thickness: 3px;
+}
+
+.ghostTable .deactivated {
+  color: rgba(0, 0, 0, 0.15);
+  text-decoration: line-through;
+  text-decoration-thickness: 3px;
+}
+
+.ghostTable .selected::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: 0 0 / 100% 100% no-repeat url("circle.svg");
+}
